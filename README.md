@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AdrianoReckziegel
+- 👋 Hi, I’m @AdrianoReckziegel and I am a software developer
 - 👀 I’m interested in testing different stacks that I don't use at work
 - 🌱 I’m currently learning AI and API's, as well as security
 - 💞️ I’m looking to collaborate on projects involving finance and tech
